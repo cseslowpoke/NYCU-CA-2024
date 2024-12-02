@@ -10,3 +10,6 @@
 [submodule "lab4"]
 	path = lab4
 	url = git@github.com:cseslowpoke/NYCU-CA-Lab4.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:cseslowpoke/NYCU-CA-Lab5.git
